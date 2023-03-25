@@ -48,6 +48,11 @@ Tutorial:
 - - Single Capacitive Touch
 - - Multi Capacitive Touch
 - - - All tutorial codes and PDF document of these tutorials are available: ![here](https://libstock.mikroe.com/projects/view/2056/stm8-microcontroller-tutorials).
+- Klaasdc: ![STM8S Projects](https://sites.google.com/site/klaasdc/stm8s-projects)
+- - 16bit to BCD Conversion
+- - A/D tacho conversion
+- - Elevator codelock
+- - RPM Counter
 - YouTube: ![How to use STM8S Controller with Arduino IDE | SDUINO](https://www.youtube.com/watch?v=8CfD1d4Z_Vk)
 - YouTube Playlist (42 videos): ![STM8 Microcontroller Tutorials](https://www.youtube.com/playlist?list=PL-EErZRpDPIW2_hgHZEkgHINcSUKQS4LY)
 
