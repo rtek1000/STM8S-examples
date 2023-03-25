@@ -1,4 +1,5 @@
 // In use: https://github.com/rtek1000/RF_Magic_Controller_6803_IC/tree/main/Arduino_Modified_Hardware/MCP4725
+// More examples: https://github.com/tenbaht/sduino/tree/development/sduino/stm8/libraries/Wire
 
 #include "stm8s.h"
 
