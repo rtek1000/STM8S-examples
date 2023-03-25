@@ -59,6 +59,7 @@ Tutorial:
 Arduino Core:
 - https://tenbaht.github.io/sduino/
 - https://github.com/tenbaht/sduino
+- https://github.com/stm32duino/Arduino_Core_STM8
 
 [The STM8S003 is almost identical to the STM8S103, the only difference is a smaller EEPROM area:](https://github.com/tenbaht/sduino/issues/90)
 
