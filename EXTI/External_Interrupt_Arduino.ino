@@ -1,4 +1,5 @@
 // Source: https://github.com/tenbaht/sduino/issues/127
+// In use: https://github.com/rtek1000/RF_Magic_Controller_6803_IC/blob/main/Arduino_Modified_Hardware/Test_remote_control.ino
 
 // test pin change interrupt on pin PC3
 // the pin level on PC3 is copied onto the built-in led 
