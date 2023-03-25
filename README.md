@@ -2,9 +2,10 @@
 Examples found on the Internet for using the resources of the STM8 since the ST does not seem to support this line of low cost microcontrollers very well.
 
 Tutorial:
-- https://embedded-lab.com/blog/starting-stm8-microcontrollers/
-- https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/
-- https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/
+- Embedded Lab: ![Starting STM8 Microcontrollers](https://embedded-lab.com/blog/starting-stm8-microcontrollers/)
+- Embedded Lab: ![Continuing the STM8 Expedition](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/)
+- Embedded Lab: ![STM8 Microcontrollers – the Final Chapters](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/)
+- YouTube: ![How to use STM8S Controller with Arduino IDE | SDUINO](https://www.youtube.com/watch?v=8CfD1d4Z_Vk)
 
 Arduino Core:
 - https://tenbaht.github.io/sduino/
