@@ -1,0 +1,50 @@
+Source:
+- https://libstock.mikroe.com/projects/view/2056/stm8-microcontroller-tutorials
+
+See explanations:
+- Embedded Lab: [Starting STM8 Microcontrollers](https://embedded-lab.com/blog/starting-stm8-microcontrollers/)
+- - Hardware Tools (STlink)
+- - Software Tools (IDE)
+- - General Purpose Input Output (GPIO)
+- - Clock System (CLK)
+- - External Interrupt (EXTI)
+- - Beeper (BEEP)
+- - Alphanumeric LCD (Display HD44780)
+- - Analog-to-Digital Converter (ADC)
+- - Analog Watchdog (AWD)
+- - Independent Watchdog (IWDG)
+- - Window Watchdog (WWDG)
+- - Time Base Generation (TIM2)
+- - Timer Interrupt (TIM4)
+- - General Purpose Pulse Width Modulation (TIM2 PWM)
+- - Advanced Pulse Width Modulation (TIM1 PWM)
+- - Timer Input Capture (TIM1 & TIM2)
+- - Serial Communication (UART)
+- - Serial Peripheral Interface (SPI)
+- - Inter-Integrated Circuit (I2C)
+- Embedded Lab: [Continuing the STM8 Expedition](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/)
+- - ADC Interrupt
+- - Multi-Channel ADC with Scan Mode
+- - Creating Delays using Basic Timer
+- - Encoder Interface
+- - One Pulse Mode (OPM - Timer)
+- - PWM Input Mode (PWMI - Timer)
+- - PWM Duty Capture using Software
+- - Low Power Sleep Mode
+- - Auto Wakeup Mode (AWU)
+- - True Data EEPROM
+- - Internal Flash Memory
+- - UART Interrupt
+- - Software SPI – MAX6675
+- - Driving LCD with Hardware SPI and by Bit-Banging Method
+- - TFT Display – ST7735
+- Embedded Lab: [STM8 Microcontrollers – the Final Chapters](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/)
+- - Software I2C – DS1307
+- - Driving LCD with I2C Interface (Display HD44780)
+- - OLED Display – SSD1306/SSD1309
+- - Bit-Banging PCD8544 GLCD
+- - One Wire (OW) – DS18B20
+- - One Wire – DHT11
+- - Single Capacitive Touch
+- - Multi Capacitive Touch
+- - - All tutorial codes and PDF document of these tutorials are available: [here](https://libstock.mikroe.com/projects/view/2056/stm8-microcontroller-tutorials).
