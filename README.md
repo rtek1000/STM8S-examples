@@ -2,7 +2,7 @@
 Examples found on the Internet for using the resources of the STM8 since the ST does not seem to support this line of low cost microcontrollers very well.
 
 Tutorial:
-- Embedded Lab: ![Starting STM8 Microcontrollers](https://embedded-lab.com/blog/starting-stm8-microcontrollers/)
+- Embedded Lab: [Starting STM8 Microcontrollers](https://embedded-lab.com/blog/starting-stm8-microcontrollers/)
 - - Hardware Tools (STlink)
 - - Software Tools (IDE)
 - - General Purpose Input Output (GPIO)
