@@ -22,7 +22,7 @@ Tutorial:
 - - Serial Communication (UART)
 - - Serial Peripheral Interface (SPI)
 - - Inter-Integrated Circuit (I2C)
-- Embedded Lab: ![Continuing the STM8 Expedition](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/)
+- Embedded Lab: [Continuing the STM8 Expedition](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/)
 - - ADC Interrupt
 - - Multi-Channel ADC with Scan Mode
 - - Creating Delays using Basic Timer
@@ -38,7 +38,7 @@ Tutorial:
 - - Software SPI – MAX6675
 - - Driving LCD with Hardware SPI and by Bit-Banging Method
 - - TFT Display – ST7735
-- Embedded Lab: ![STM8 Microcontrollers – the Final Chapters](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/)
+- Embedded Lab: [STM8 Microcontrollers – the Final Chapters](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/)
 - - Software I2C – DS1307
 - - Driving LCD with I2C Interface (Display HD44780)
 - - OLED Display – SSD1306/SSD1309
@@ -47,20 +47,20 @@ Tutorial:
 - - One Wire – DHT11
 - - Single Capacitive Touch
 - - Multi Capacitive Touch
-- - - All tutorial codes and PDF document of these tutorials are available: ![here](https://libstock.mikroe.com/projects/view/2056/stm8-microcontroller-tutorials).
-- Klaasdc: ![STM8S Projects](https://sites.google.com/site/klaasdc/stm8s-projects)
+- - - All tutorial codes and PDF document of these tutorials are available: [here](https://libstock.mikroe.com/projects/view/2056/stm8-microcontroller-tutorials).
+- Klaasdc: [STM8S Projects](https://sites.google.com/site/klaasdc/stm8s-projects)
 - - 16bit to BCD Conversion
 - - A/D tacho conversion
 - - Elevator codelock
 - - RPM Counter
-- YouTube: ![How to use STM8S Controller with Arduino IDE | SDUINO](https://www.youtube.com/watch?v=8CfD1d4Z_Vk)
-- YouTube Playlist (42 videos): ![STM8 Microcontroller Tutorials](https://www.youtube.com/playlist?list=PL-EErZRpDPIW2_hgHZEkgHINcSUKQS4LY)
+- YouTube: [How to use STM8S Controller with Arduino IDE | SDUINO](https://www.youtube.com/watch?v=8CfD1d4Z_Vk)
+- YouTube Playlist (42 videos): [STM8 Microcontroller Tutorials](https://www.youtube.com/playlist?list=PL-EErZRpDPIW2_hgHZEkgHINcSUKQS4LY)
 
 Arduino Core:
 - https://tenbaht.github.io/sduino/
 - https://github.com/tenbaht/sduino
 
-![The STM8S003 is almost identical to the STM8S103, the only difference is a smaller EEPROM area:](https://github.com/tenbaht/sduino/issues/90)
+[The STM8S003 is almost identical to the STM8S103, the only difference is a smaller EEPROM area:](https://github.com/tenbaht/sduino/issues/90)
 
 STM8S003F3: https://www.st.com/en/microcontrollers-microprocessors/stm8s003f3.html
 - Data memory: 128 bytes true data EEPROM; endurance up to 100 k write/erase cycles 
