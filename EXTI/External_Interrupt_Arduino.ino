@@ -4,6 +4,8 @@
 // test pin change interrupt on pin PC3
 // the pin level on PC3 is copied onto the built-in led 
 
+#include"stm8s.h"
+
 static void portc_irq (void) {
   digitalWrite(LED_BUILTIN,digitalRead(PC3));
 }
