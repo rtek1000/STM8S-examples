@@ -87,8 +87,6 @@ void I2C_Setup(u8 u8_regAddr)
   //  I2C_ITR_ITERREN = 1;          //Error  Enables               : BERR, ARLO, AF, OVR
 
   I2C_Cmd(ENABLE);
-
-  // attachInterrupt(INT_I2C & 0xFF, I2C_interr, CHANGE);
 }
 
 /******************************************************************************
