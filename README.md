@@ -1,5 +1,5 @@
 # STM8S-examples
-Examples found on the Internet for using the resources of the STM8S since the ST does not seem to support this line of low cost microcontrollers very well.
+Examples found on the Internet for using the resources of the STM8 since the ST does not seem to support this line of low cost microcontrollers very well.
 
 Tutorial:
 - https://embedded-lab.com/blog/starting-stm8-microcontrollers/
