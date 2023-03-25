@@ -3,10 +3,30 @@ Examples found on the Internet for using the resources of the STM8 since the ST 
 
 Tutorial:
 - Embedded Lab: ![Starting STM8 Microcontrollers](https://embedded-lab.com/blog/starting-stm8-microcontrollers/)
+- - Hardware Tools (STlink)
+- - Software Tools (IDE)
+- - General Purpose Input Output (GPIO)
+- - Clock System (CLK)
+- - External Interrupt (EXTI)
+- - Beeper (BEEP)
+- - Alphanumeric LCD (Display HD44780)
+- - Analog-to-Digital Converter (ADC)
+- - Analog Watchdog (AWD)
+- - Independent Watchdog (IWDG)
+- - Window Watchdog (WWDG)
+- - Time Base Generation (TIM2)
+- - Timer Interrupt (TIM4)
+- - General Purpose Pulse Width Modulation (TIM2 PWM)
+- - Advanced Pulse Width Modulation (TIM1 PWM)
+- - Timer Input Capture (TIM1 & TIM2)
+- - Serial Communication (UART)
+- - Serial Peripheral Interface (SPI)
+- - Inter-Integrated Circuit (I2C)
 - Embedded Lab: ![Continuing the STM8 Expedition](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/)
 - Embedded Lab: ![STM8 Microcontrollers – the Final Chapters](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/)
 - YouTube: ![How to use STM8S Controller with Arduino IDE | SDUINO](https://www.youtube.com/watch?v=8CfD1d4Z_Vk)
 - YouTube Playlist (42 videos): ![STM8 Microcontroller Tutorials](https://www.youtube.com/playlist?list=PL-EErZRpDPIW2_hgHZEkgHINcSUKQS4LY)
+- - 
 
 Arduino Core:
 - https://tenbaht.github.io/sduino/
