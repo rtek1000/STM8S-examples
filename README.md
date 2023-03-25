@@ -23,10 +23,33 @@ Tutorial:
 - - Serial Peripheral Interface (SPI)
 - - Inter-Integrated Circuit (I2C)
 - Embedded Lab: ![Continuing the STM8 Expedition](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/)
+- - ADC Interrupt
+- - Multi-Channel ADC with Scan Mode
+- - Creating Delays using Basic Timer
+- - Encoder Interface
+- - One Pulse Mode (OPM - Timer)
+- - PWM Input Mode (PWMI - Timer)
+- - PWM Duty Capture using Software
+- - Low Power Sleep Mode
+- - Auto Wakeup Mode (AWU)
+- - True Data EEPROM
+- - Internal Flash Memory
+- - UART Interrupt
+- - Software SPI – MAX6675
+- - Driving LCD with Hardware SPI and by Bit-Banging Method
+- - TFT Display – ST7735
 - Embedded Lab: ![STM8 Microcontrollers – the Final Chapters](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/)
+- - Software I2C – DS1307
+- - Driving LCD with I2C Interface (Display HD44780)
+- - OLED Display – SSD1306/SSD1309
+- - Bit-Banging PCD8544 GLCD
+- - One Wire (OW) – DS18B20
+- - One Wire – DHT11
+- - Single Capacitive Touch
+- - Multi Capacitive Touch
+- - - All tutorial codes and PDF document of these tutorials are available: ![here](https://libstock.mikroe.com/projects/view/2056/stm8-microcontroller-tutorials).
 - YouTube: ![How to use STM8S Controller with Arduino IDE | SDUINO](https://www.youtube.com/watch?v=8CfD1d4Z_Vk)
 - YouTube Playlist (42 videos): ![STM8 Microcontroller Tutorials](https://www.youtube.com/playlist?list=PL-EErZRpDPIW2_hgHZEkgHINcSUKQS4LY)
-- - 
 
 Arduino Core:
 - https://tenbaht.github.io/sduino/
