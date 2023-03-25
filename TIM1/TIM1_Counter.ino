@@ -1,5 +1,6 @@
 // Source: https://sites.google.com/site/klaasdc/stm8s-projects/rpm-counter-1
 // In use: https://github.com/rtek1000/RF_Magic_Controller_6803_IC/blob/main/Arduino_Modified_Hardware/Test_remote_control.ino
+#include "stm8s.h"
 
 unsigned int _width_us = 0;
 
