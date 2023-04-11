@@ -68,3 +68,9 @@ STM8S003F3: https://www.st.com/en/microcontrollers-microprocessors/stm8s003f3.ht
 
 STM8S103F3: https://www.st.com/en/microcontrollers-microprocessors/stm8s103f3.html
 - Data memory: 640 byte true data EEPROM; endurance 300 kcycle 
+
+----------------
+
+- This project uses STM8S003F3P6, on board W1209 - Thermostat (or timer)
+https://github.com/rtek1000/W1209-firmware-modified
+
