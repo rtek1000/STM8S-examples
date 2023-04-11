@@ -75,3 +75,6 @@ STM8S103F3: https://www.st.com/en/microcontrollers-microprocessors/stm8s103f3.ht
 
 https://github.com/rtek1000/W1209-firmware-modified
 
+- Bootloader:
+
+https://lujji.github.io/blog/serial-bootloader-for-stm8/
