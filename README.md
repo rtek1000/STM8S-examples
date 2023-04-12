@@ -71,9 +71,13 @@ Tutorial:
 ----------
 
 - lujji: [Serial bootloader for STM8](https://lujji.github.io/blog/serial-bootloader-for-stm8/)
+- - This article will cover developing a serial bootloader for STM8S microcontrollers.
 - lujji: [Mixing C and assembly on STM8](https://lujji.github.io/blog/mixing-c-and-assembly-on-stm8/)
+- - This guide discusses how we should (and should not) speed up our code with inline assembly and explains how to write separate assembly routines that can be used within C.
 - lujji: [Executing code from RAM on STM8](https://lujji.github.io/blog/executing-code-from-ram-on-stm8/)
+- - A short article where we investigate how executing code from RAM can be achieved on STM8 with SDCC toolchain.
 - lujji: [Bare metal programming: STM8](https://lujji.github.io/blog/bare-metal-programming-stm8/)
+- - This article will cover developing for STM8 series of microcontrolles completely from scratch, without using any vendor-supplied libraries.
 
 ----------
 
