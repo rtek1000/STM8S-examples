@@ -101,6 +101,33 @@ STM8S103F3: https://www.st.com/en/microcontrollers-microprocessors/stm8s103f3.ht
 
 https://www.st.com/en/embedded-software/stsw-stm8069.html
 
+
+- ST documments:
+- - DS7147 Value line, 16-MHz STM8S 8-bit MCU, 8-Kbyte Flash memory, 128-byte data EEPROM, 10-bit ADC, 3 timers, UART, SPI, I²C
+- - AN3280 Displaying variable voltage on a bar of LEDs using STM8S-DISCOVERY
+- - AN2860 EMC guidelines for STM8 microcontrollers
+- - AN1181 Electrostatic discharge sensitivity measurement
+- - AN2752 Getting started with STM8S and STM8AF microcontrollers
+- - AN3208 Microstepping motor drive with STM8A and STM8S microcontrollers
+- - TN1163 Description of WLCSP for microcontrollers and recommendations for its use
+- - TN0189 STM8 bootloader frequently asked questions
+- - UM1542 Cold thermostat kit based on AC switches and the STM8S003F3
+- - UM1546 STEVAL-IHM037V1 remote fan speed controller
+- - RM0016 STM8S Series and STM8AF Series 8-bit microcontrollers
+- - PM0051 How to program STM8S and STM8A Flash program memory and data EEPROM
+- - PM0044 STM8 CPU programming manual
+- - ES0102 STM8S001J3, STM8S003xx, STM8S103xx and STM8S903xx device limitations
+- - DN0005 A three phase induction motor drive using a V/F control
+- - AN5183 Adjustable LED blinking speed using STM8 Nucleo-64 boards and STM8 Nucleo-32 boards
+- - AN3143 Audio software codec for the STM8S
+- - AN2737 Basic in-application programming example using the STM8 I²C and SPI peripherals
+- - AN5181 Building a thermometer using the STM8 Nucleo-64 boards
+- - AN5176 Displaying variable voltage on a bar of LEDs using STM8 Nucleo-64 boards
+- - Other docs
+
+https://www.st.com/en/microcontrollers-microprocessors/stm8s003f3.html#documentation
+
+
 ----------------
 
 - This project uses STM8S003F3P6, on board W1209 - Thermostat (or timer):
