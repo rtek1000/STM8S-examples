@@ -103,6 +103,8 @@ https://github.com/rtek1000/W1209-firmware-modified
 
 - This project (maybe) uses STM8S003F3P6, in a programmable LED controller:
 
+(RF magic Controller 6803 IC 133 Modes for Dream Color Chasing 5050 RGB LED Strip)
+
 https://github.com/rtek1000/RF_Magic_Controller_6803_IC
 
 
