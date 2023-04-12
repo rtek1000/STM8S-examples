@@ -108,6 +108,7 @@ https://github.com/rtek1000/W1209-firmware-modified
 https://github.com/rtek1000/RF_Magic_Controller_6803_IC
 
 - STM8 eForth is an interactive Forth system for the STM8 family of highly reliable 8-bit MCUs with 16bit extensions and modern peripherals that are easier to master than those in 32bit µCs.
+- - The STM8 eForth core is written in STM8 assembly using the SDCC tool chain. Combining Forth with C is supported.
 
 https://github.com/TG9541/stm8ef
 
