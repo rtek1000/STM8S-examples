@@ -48,6 +48,7 @@ Tutorial:
 - - Single Capacitive Touch
 - - Multi Capacitive Touch
 - - - All tutorial codes and PDF document of these tutorials are available: [here](https://libstock.mikroe.com/projects/view/2056/stm8-microcontroller-tutorials).
+
 - Klaasdc: [STM8S Projects](https://sites.google.com/site/klaasdc/stm8s-projects)
 - - 16bit to BCD Conversion
 - - A/D tacho conversion
@@ -55,6 +56,13 @@ Tutorial:
 - - RPM Counter
 - YouTube: [How to use STM8S Controller with Arduino IDE | SDUINO](https://www.youtube.com/watch?v=8CfD1d4Z_Vk)
 - YouTube Playlist (42 videos): [STM8 Microcontroller Tutorials](https://www.youtube.com/playlist?list=PL-EErZRpDPIW2_hgHZEkgHINcSUKQS4LY)
+
+- lujji: [Serial bootloader for STM8](https://lujji.github.io/blog/serial-bootloader-for-stm8/)
+- lujji: [Mixing C and assembly on STM8](https://lujji.github.io/blog/mixing-c-and-assembly-on-stm8/)
+- lujji: [Executing code from RAM on STM8](https://lujji.github.io/blog/executing-code-from-ram-on-stm8/)
+- lujji: [Bare metal programming: STM8](https://lujji.github.io/blog/bare-metal-programming-stm8/)
+
+https://lujji.github.io/blog/serial-bootloader-for-stm8/
 
 Arduino Core:
 - https://tenbaht.github.io/sduino/
@@ -75,6 +83,3 @@ STM8S103F3: https://www.st.com/en/microcontrollers-microprocessors/stm8s103f3.ht
 
 https://github.com/rtek1000/W1209-firmware-modified
 
-- Bootloader:
-
-https://lujji.github.io/blog/serial-bootloader-for-stm8/
