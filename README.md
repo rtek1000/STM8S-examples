@@ -107,4 +107,6 @@ https://github.com/rtek1000/W1209-firmware-modified
 
 https://github.com/rtek1000/RF_Magic_Controller_6803_IC
 
+-----------
 
+Note: This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE
