@@ -101,3 +101,8 @@ STM8S103F3: https://www.st.com/en/microcontrollers-microprocessors/stm8s103f3.ht
 
 https://github.com/rtek1000/W1209-firmware-modified
 
+- This project (maybe) uses STM8S003F3P6, in a programmable LED controller:
+
+https://github.com/rtek1000/RF_Magic_Controller_6803_IC
+
+
