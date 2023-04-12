@@ -1,7 +1,19 @@
 # STM8S-examples
 Examples found on the Internet for using the resources of the STM8 since the ST does not seem to support this line of low cost microcontrollers very well.
 
-Tutorial:
+Tutorials:
+
+- lujji: [Serial bootloader for STM8](https://lujji.github.io/blog/serial-bootloader-for-stm8/)
+- - This article will cover developing a serial bootloader for STM8S microcontrollers.
+- lujji: [Mixing C and assembly on STM8](https://lujji.github.io/blog/mixing-c-and-assembly-on-stm8/)
+- - This guide discusses how we should (and should not) speed up our code with inline assembly and explains how to write separate assembly routines that can be used within C.
+- lujji: [Executing code from RAM on STM8](https://lujji.github.io/blog/executing-code-from-ram-on-stm8/)
+- - A short article where we investigate how executing code from RAM can be achieved on STM8 with SDCC toolchain.
+- lujji: [Bare metal programming: STM8](https://lujji.github.io/blog/bare-metal-programming-stm8/)
+- - This article will cover developing for STM8 series of microcontrolles completely from scratch, without using any vendor-supplied libraries.
+
+----------
+
 - Embedded Lab: [Starting STM8 Microcontrollers](https://embedded-lab.com/blog/starting-stm8-microcontrollers/)
 - - Hardware Tools (STlink)
 - - Software Tools (IDE)
@@ -67,17 +79,6 @@ Tutorial:
 
 - YouTube: [How to use STM8S Controller with Arduino IDE | SDUINO](https://www.youtube.com/watch?v=8CfD1d4Z_Vk)
 - YouTube Playlist (42 videos): [STM8 Microcontroller Tutorials](https://www.youtube.com/playlist?list=PL-EErZRpDPIW2_hgHZEkgHINcSUKQS4LY)
-
-----------
-
-- lujji: [Serial bootloader for STM8](https://lujji.github.io/blog/serial-bootloader-for-stm8/)
-- - This article will cover developing a serial bootloader for STM8S microcontrollers.
-- lujji: [Mixing C and assembly on STM8](https://lujji.github.io/blog/mixing-c-and-assembly-on-stm8/)
-- - This guide discusses how we should (and should not) speed up our code with inline assembly and explains how to write separate assembly routines that can be used within C.
-- lujji: [Executing code from RAM on STM8](https://lujji.github.io/blog/executing-code-from-ram-on-stm8/)
-- - A short article where we investigate how executing code from RAM can be achieved on STM8 with SDCC toolchain.
-- lujji: [Bare metal programming: STM8](https://lujji.github.io/blog/bare-metal-programming-stm8/)
-- - This article will cover developing for STM8 series of microcontrolles completely from scratch, without using any vendor-supplied libraries.
 
 ----------
 
