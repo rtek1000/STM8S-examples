@@ -1,7 +1,7 @@
 # STM8S-examples
 Examples found on the Internet for using the resources of the STM8 since the ST does not seem to support this line of low cost microcontrollers very well.
 
-Tutorials:
+# Tutorials:
 
 - lujji: [Serial bootloader for STM8](https://lujji.github.io/blog/serial-bootloader-for-stm8/)
 - - This article will cover developing a serial bootloader for STM8S microcontrollers.
