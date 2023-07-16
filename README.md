@@ -32,11 +32,11 @@ Start understanding STM8 with this tutorial:
 ----------
 
 - Embedded Lab: [Continuing the STM8 Expedition](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/)
-- - ADC Interrupt
-- - Multi-Channel ADC with Scan Mode
-- - Creating Delays using Basic Timer
-- - Encoder Interface
-- - One Pulse Mode (OPM - Timer)
+- - [ADC Interrupt](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/)
+- - [Multi-Channel ADC with Scan Mode](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/2/)
+- - [Creating Delays using Basic Timer](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/3/)
+- - [Encoder Interface](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/4/)
+- - [One Pulse Mode (OPM - Timer)](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/5/)
 - - PWM Input Mode (PWMI - Timer)
 - - PWM Duty Capture using Software
 - - Low Power Sleep Mode
