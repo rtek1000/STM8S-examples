@@ -52,13 +52,14 @@ Start understanding STM8 with this tutorial:
 
 - Embedded Lab: [STM8 Microcontrollers – the Final Chapters](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/)
 - - [Software I2C – DS1307](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/)
-- - Driving LCD with I2C Interface (Display HD44780)
-- - OLED Display – SSD1306/SSD1309
-- - Bit-Banging PCD8544 GLCD
-- - One Wire (OW) – DS18B20
-- - One Wire – DHT11
-- - Single Capacitive Touch
-- - Multi Capacitive Touch
+- - [Driving LCD with I2C Interface (Display HD44780)](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/2/)
+- - [OLED Display – SSD1306/SSD1309](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/3/)
+- - [Bit-Banging PCD8544 GLCD](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/4/)
+- - [One Wire (OW) – DS18B20](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/5/)
+- - [One Wire – DHT11](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/6/)
+- - [Single Capacitive Touch](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/8/)
+- - - [Capacitive Touch Overview](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/7/)
+- - [Multi Capacitive Touch](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/9/)
 - - - All tutorial codes and PDF document of these tutorials are available: [here](https://libstock.mikroe.com/projects/view/2056/stm8-microcontroller-tutorials).
 
 ----------
