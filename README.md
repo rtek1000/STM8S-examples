@@ -37,8 +37,8 @@ Start understanding STM8 with this tutorial:
 - - [Creating Delays using Basic Timer](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/3/)
 - - [Encoder Interface](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/4/)
 - - [One Pulse Mode (OPM - Timer)](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/5/)
-- - PWM Input Mode (PWMI - Timer)
-- - PWM Duty Capture using Software
+- - [PWM Input Mode (PWMI - Timer)](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/6/)
+- - [PWM Duty Capture using Software](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/7/)
 - - Low Power Sleep Mode
 - - Auto Wakeup Mode (AWU)
 - - True Data EEPROM
