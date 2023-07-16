@@ -27,6 +27,7 @@ Start understanding STM8 with this tutorial:
 - - - [Communication Overview](https://embedded-lab.com/blog/starting-stm8-microcontrollers/23/)
 - - [Serial Peripheral Interface (SPI)](https://embedded-lab.com/blog/starting-stm8-microcontrollers/25/)
 - - [Inter-Integrated Circuit (I2C)](https://embedded-lab.com/blog/starting-stm8-microcontrollers/26/)
+- - [Some Useful Tips](https://embedded-lab.com/blog/starting-stm8-microcontrollers/27/)
 
 ----------
 
