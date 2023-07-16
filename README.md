@@ -39,19 +39,19 @@ Start understanding STM8 with this tutorial:
 - - [One Pulse Mode (OPM - Timer)](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/5/)
 - - [PWM Input Mode (PWMI - Timer)](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/6/)
 - - [PWM Duty Capture using Software](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/7/)
-- - Low Power Sleep Mode
-- - Auto Wakeup Mode (AWU)
-- - True Data EEPROM
-- - Internal Flash Memory
-- - UART Interrupt
-- - Software SPI – MAX6675
-- - Driving LCD with Hardware SPI and by Bit-Banging Method
-- - TFT Display – ST7735
+- - [Low Power Sleep Mode](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/8/)
+- - [Auto Wakeup Mode (AWU)](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/9/)
+- - [True Data EEPROM](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/10/)
+- - [Internal Flash Memory](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/11/)
+- - [UART Interrupt](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/12/)
+- - [Software SPI – MAX6675](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/13/)
+- - [Driving LCD with Hardware SPI and by Bit-Banging Method](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/14/)
+- - [TFT Display – ST7735](https://embedded-lab.com/blog/continuing-stm8-microcontroller-expedition/15/)
 
 ----------
 
 - Embedded Lab: [STM8 Microcontrollers – the Final Chapters](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/)
-- - Software I2C – DS1307
+- - [Software I2C – DS1307](https://embedded-lab.com/blog/stm8-microcontrollers-final-chapters/)
 - - Driving LCD with I2C Interface (Display HD44780)
 - - OLED Display – SSD1306/SSD1309
 - - Bit-Banging PCD8544 GLCD
